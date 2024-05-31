@@ -2,7 +2,7 @@
 title: Robot platform for future development
 date: 2017-05-29 21:02:00 +0200
 categories: [Electronics, 3D-Printing]
-tags: [electronic, robot, 3d-printing, openbeam]
+tags: [electronics, robot, 3d-printing, openbeam]
 ---
 
 ## Introduction
