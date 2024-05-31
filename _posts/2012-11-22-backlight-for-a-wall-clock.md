@@ -5,8 +5,6 @@ categories: [Electronics]
 tags: [electronics, c, atmel]
 ---
 
-## Introduction
-
 I'm wearing glasses during the day, to improve my eyesight.
 But when I'm in bed, and it is dark, I have trouble to see my clock.
 Because I have a really nice looking wall clock made out of glass, there is a possibility to illuminate the back of it.
@@ -150,9 +148,11 @@ You can find the full source code on GitHub [RC5ControlledClocklight (GitHub)](h
 ## Backlight controller PCB
 
 This is the current schematic in Eagle:
+
 ![Eagle schematic](/assets/img/2012/11/version1.jpg)
 
 And the current PCB layout looks like this:
+
 ![Board](/assets/img/2012/11/version1_brd.jpg)
 
 We will create a single layer PCB.
@@ -185,7 +185,7 @@ With the thermals on the pad, we should be able to solder the pad easily.
 ## Wall clock
 
 The wall clock has to prepared with an LED ring as the backlight.
-Because there is a black coloured circle in the middle, we can hide the LED ring and all the cables behind it.
+Because there is a black colored circle in the middle, we can hide the LED ring and all the cables behind it.
 For the LED ring I drew a circle on a piece of paper and marked the LED position every 30 degrees.
 This results in 12 LEDs on the ring.
 Tape the LEDs on their position and solder 6 LEDs in series with the help of some silver wire.
