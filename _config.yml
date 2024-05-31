@@ -16,10 +16,10 @@ timezone: "Europe/Berlin"
 
 title: cronJ.de # the main title
 
-tagline: Private website # it will display as the sub-title
+tagline: Exploring projects in electronics, development, photography, hydroponics, and 3D printing. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My private blog and photo gallery.
+  Welcome to cronj.de - exploring projects in electronics, development, photography, hydroponics, and 3D printing. Discover our DIY adventures.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -213,6 +213,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - USAGE.md
   - LICENSE
   - "*.config.js"
   - package*.json
