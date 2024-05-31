@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Who am I and what I do for a living
+## Who am I and what I do for a living
 
 Hi, I'm Alex. I use this website to document my ideas, my photos and other stuff I'm interested in.
 Maybe someone else finds it is interesting.
