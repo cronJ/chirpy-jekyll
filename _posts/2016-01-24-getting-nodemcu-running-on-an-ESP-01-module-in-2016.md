@@ -1,11 +1,9 @@
 ---
 title: Getting NodeMCU running on a ESP-01 module in 2016
 date: 2016-01-24 13:41:00 +0200
-categories: [Electronics]
-tags: [electronics, esp8266, nodemcu]
+categories: [Electronics, ESP8266, NodeMCU]
+tags: [electronics, esp8266, nodemcu. lua]
 ---
-
-## Introduction
 
 I tried to install NodeMCU with the help of my article from January 2015, but had some problems to do so.
 So I write a new article with a new approach, which works today.
@@ -118,24 +116,12 @@ lua: cannot open init.lua
 >
 ```
 
-Now I enter the following line to set the IO pin to an output:
+You can now toggle the LED via the console.
 
 ```lua
-gpio.mode(4, gpio.OUTPUT)
+gpio.mode(4, gpio.OUTPUT) -- GPIO set to OUTPUT
+gpio.write(4, 1) -- GPIO set to HIGH
+gpio.write(4, 0) -- GPIO set to LOW
 ```
-
-To switch the LED on I enter:
-
-```lua
-gpio.write(4, 1)
-```
-
-or:
-
-```lua
-gpio.write(4, 0)
-```
-
-to turn the LED off.
 
 If you can control the LED with these commands, congratulations, your NodeMCU firmware works.
