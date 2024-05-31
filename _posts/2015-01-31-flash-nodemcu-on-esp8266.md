@@ -1,16 +1,14 @@
 ---
 title: Flash NodeMcu on ESP8266 (ESP-01 Modul)
 date: 2015-01-31 21:52:32 +0200
-categories: [Electronics]
-tags: [electronics, esp8266, nodemcu]
+categories: [Electronics, ESP8266, NodeMCU]
+tags: [electronics, esp8266, nodemcu, lua]
 ---
 
 <!-- prettier-ignore-start -->
 > There is a new guide for flashing NodeMcu on ESP8266. See [link](/posts/getting-nodemcu-running-on-an-ESP-01-module-in-2016/)
 {: .prompt-info }
 <!-- prettier-ignore-end -->
-
-## Introduction
 
 A little instruction on how to flash NodeMCU on your ESP-01 module.
 Then you can run LUA code on your ESP8266.
