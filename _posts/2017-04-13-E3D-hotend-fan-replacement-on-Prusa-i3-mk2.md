@@ -1,11 +1,9 @@
 ---
 title: E3D hotend fan replacement on Prusa i3 mk2
 date: 2017-04-13 18:29:00 +0200
-categories: [3D-Printing]
+categories: [Electronics, 3D-Printing]
 tags: [electronics, 3d-printing, prusa]
 ---
-
-## Introduction
 
 So my Prusa i3 MK2 is printing just fine, and I get awesome results with PLA and nGen.
 But two things are missing to be a perfect printer which is living room compatible.
