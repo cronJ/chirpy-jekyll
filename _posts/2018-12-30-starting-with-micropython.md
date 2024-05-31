@@ -7,7 +7,7 @@ tags: [electronic, esp32, micropython]
 
 ## Introduction
 
-Yesterday I saw the recording of the talk from Christine Spindler on the 35c3 about MicroPython [[here]](https://media.ccc.de/v/35c3-9648-micropython_python_for_microcontrollers#t=2465), which was great by the way.
+Yesterday I saw the recording of the talk from Christine Spindler on the 35c3 about MicroPython [here](https://media.ccc.de/v/35c3-9648-micropython_python_for_microcontrollers#t=2465), which was great by the way.
 I heard about MicroPython before and had already looked into it.
 
 So, because I have a MicroPython capable board lying on my bench, I will play a little with it.
