@@ -5,14 +5,12 @@ categories: [Electronics, 3D-Printing]
 tags: [electronics, robot, 3d-printing, openbeam]
 ---
 
-## Introduction
-
 Over the last weeks I was building a moving platform.
 The platform should serve as a base for future development with the Raspberry Pi and openCV.
 
 ## The platform
 
-The platform uses aluminium profiles from OpenBeam.
+The platform uses aluminum profiles from OpenBeam.
 I got a nice kit with different pre-cut lengths.
 For the fixture I'm using the metal brackets from the kit and also self designed parts which I printed in PLA and PHA/PLA.
 
