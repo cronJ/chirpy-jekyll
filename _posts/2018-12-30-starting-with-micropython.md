@@ -1,11 +1,9 @@
 ---
 title: Starting with MicroPython on ESP32
 date: 2018-12-30 09:43:00 +0200
-categories: [Electronics]
-tags: [electronics, esp32, micropython]
+categories: [Electronics, ESP32, Python]
+tags: [electronics, esp32, micropython, python]
 ---
-
-## Introduction
 
 Yesterday I saw the recording of the talk from Christine Spindler on the 35c3 about MicroPython [here](https://media.ccc.de/v/35c3-9648-micropython_python_for_microcontrollers#t=2465), which was great by the way.
 I heard about MicroPython before and had already looked into it.
@@ -14,7 +12,7 @@ So, because I have a MicroPython capable board lying on my bench, I will play a 
 
 ## Get MicroPython running on the ESP32
 
-The board lying on my bench is a ESP32 DOIT v1.
+The board lying on my bench is a `ESP32 DOIT v1`.
 So, I need the MicroPython binary for this board.
 You can find the binaries in the [download section](http://micropython.org/download) of the MicroPython page.
 Scroll down to ESP32 or click on the ESP32 link on the page.
