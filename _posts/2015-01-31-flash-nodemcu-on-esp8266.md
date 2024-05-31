@@ -2,7 +2,7 @@
 title: Flash NodeMcu on ESP8266 (ESP-01 Modul)
 date: 2015-01-31 21:52:32 +0200
 categories: [Electronics]
-tags: [electronic, esp8266, nodemcu]
+tags: [electronics, esp8266, nodemcu]
 ---
 
 <!-- prettier-ignore-start -->

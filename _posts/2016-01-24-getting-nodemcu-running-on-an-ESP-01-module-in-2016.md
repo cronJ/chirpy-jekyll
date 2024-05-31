@@ -2,7 +2,7 @@
 title: Getting NodeMCU running on a ESP-01 module in 2016
 date: 2016-01-24 13:41:00 +0200
 categories: [Electronics]
-tags: [electronic, esp8266, nodemcu]
+tags: [electronics, esp8266, nodemcu]
 ---
 
 ## Introduction

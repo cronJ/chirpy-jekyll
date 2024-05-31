@@ -2,7 +2,7 @@
 title: Starting with MicroPython on ESP32
 date: 2018-12-30 09:43:00 +0200
 categories: [Electronics]
-tags: [electronic, esp32, micropython]
+tags: [electronics, esp32, micropython]
 ---
 
 ## Introduction

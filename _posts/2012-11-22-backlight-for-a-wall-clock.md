@@ -2,7 +2,7 @@
 title: Backlight for a wall clock
 date: 2012-11-22 10:05:01 +0200
 categories: [Electronics]
-tags: [electronic, c, atmel]
+tags: [electronics, c, atmel]
 ---
 
 ## Introduction

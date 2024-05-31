@@ -2,7 +2,7 @@
 title: E3D hotend fan replacement on Prusa i3 mk2
 date: 2017-04-13 18:29:00 +0200
 categories: [3D-Printing]
-tags: [electronic, 3d-printing, prusa]
+tags: [electronics, 3d-printing, prusa]
 ---
 
 ## Introduction
