@@ -5,6 +5,8 @@ categories: [Electronics]
 tags: [electronic, c, atmel]
 ---
 
+## Introduction
+
 I'm wearing glasses during the day, to improve my eyesight.
 But when I'm in bed, and it is dark, I have trouble to see my clock.
 Because I have a really nice looking wall clock made out of glass, there is a possibility to illuminate the back of it.
