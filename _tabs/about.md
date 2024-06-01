@@ -14,6 +14,15 @@ After that I got a bachelor of engineering.
 During my studies I worked for an automotive supplier where I could write my bachelor thesis.
 Currently, I work as a hardware development engineer for an automotive supplier.
 
+In my work I'm focused on developing data acquisition systems and emulation hardware for `hardware in the loop` tester.
+This involves a lot of interesting topics like:
+
+- Hardware development (from schematic to PCB to hardware)
+- Software development (C, Assembly, Python)
+- Working with AMD SoCs consisting of FPGA and ARM processors (VHDL)
+- GitHub workflows for automated manufacturing data from ECAD releases (I love the new KiCad CLI)
+- MCAD for case and part creation
+
 ## Content and interests
 
 The content on this website will depend on what I'm currently interested in.
@@ -34,13 +43,8 @@ And I love it green.
 So I have a bunch of indoor plants and in my new home I finally have a garden.
 Some content will be over this topic.
 
-## Contact:
-
-You can contact me via email:
-webmaster2@{Site-URL}
-
 ## Images:
 
-The following licence belongs to all images created by me and published on this site:
+The following license belongs to all images created by me and published on this site:
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
