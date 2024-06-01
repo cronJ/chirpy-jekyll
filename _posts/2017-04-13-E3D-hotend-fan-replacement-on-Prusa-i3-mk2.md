@@ -23,27 +23,27 @@ For the adapter my co-worker printed a nice adapter in orange ABS ([http://www.t
 
 ## Upgrade
 
-![Removing the old fan](/assets/img/2017/04/removing_old_fan.jpg)
+![Hotend fan - Removing old fan](/assets/img/2017-04-13-hotend-fan/2017-04-13-hotend-fan-removing-old-fan.jpg)
 
-![Mounting the adapter](/assets/img/2017/04/mounting_adapter.jpg)
+![Hotend fan - Mounting adapter](/assets/img/2017-04-13-hotend-fan/2017-04-13-hotend-fan-mounting-adapter.jpg)
 
 The old fan was unscrewed and removed.
 With three M3x18 screws I mounted the new fan adapter.
 
-![Mounting the new fan](/assets/img/2017/04/mounting_fan.jpg)
+![Hotend fan - Mounting fan](/assets/img/2017-04-13-hotend-fan/2017-04-13-hotend-fan-mounting-fan.jpg)
 
 Now I attached the new fan to the adapter.
 Be careful with the length of your screws.
 If your screws are too long they will damage the other fan.
 
-![Connecting the fan](/assets/img/2017/04/connecting_fan.jpg)
+![Hotend fan - Connecting fan](/assets/img/2017-04-13-hotend-fan/2017-04-13-hotend-fan-connecting-fan.jpg)
 
 With my new fan came a short cable with a three pin connector.
 I removed the spiral wrap on the cables until I could get the fan cable plus the connector cable in there.
 The old fan wires where cut.
 Then I soldered the connector cable on the old wires and isolated the two wires from another.
 
-![Spiral wrap attached again](/assets/img/2017/04/spiral_wrap.jpg)
+![Hotend fan - Spiral wrap](/assets/img/2017-04-13-hotend-fan/2017-04-13-hotend-fan-spiral-wrap.jpg)
 
 For the last step I reattached the spiral wrap on all the cables.
 Check that the cable doesn't touch the heated bed.

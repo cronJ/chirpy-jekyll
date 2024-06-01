@@ -92,7 +92,7 @@ And to check this we connect to the board via serial port.
 I'm using Putty for that.
 The default baud rate of the board is `115200`.
 
-![First connection to board](/assets/img/2018/12/putty_micropython_0.png)
+![MicroPython - Putty](/assets/img/2018-12-30-micropython/2018-12-30-micropython-putty.png)
 
 ## Conclusion
 
