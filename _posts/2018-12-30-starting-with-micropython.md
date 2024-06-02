@@ -23,7 +23,7 @@ So if you are unsure which version you need, take the standard version.
 The website states that this version will work on any board.
 
 To flash the binary onto the ESP32 board you need the [ESPTool](https://github.com/espressif/esptool).
-For me the easiest way to install it was with pip.
+For me the easiest way to install it was with `pip`.
 So, if you already have Python installed on your computer, just install it that way.
 I had to open a command line window under Windows 10 as administrator to install it properly.
 Then type:
