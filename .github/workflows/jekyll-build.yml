@@ -16,7 +16,8 @@ jobs:
           docker run \
           --rm -v ${{ github.workspace }}:/site \
           --entrypoint bash \
-          ghcr.io/bretfisher/jekyll -c "bundle install && bundle exec jekyll build"
+          ghcr.io/bretfisher/jekyll \
+          -c "git config --global --add safe.directory /site && bundle install && bundle exec jekyll build"
 
       - name: Zip the site
         run: zip -r site.zip _site
