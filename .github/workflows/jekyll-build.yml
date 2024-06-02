@@ -33,3 +33,5 @@ jobs:
           asset_path: ./chirpy-jekyll-${{ github.ref_name }}.zip
           asset_name: chirpy-jekyll-${{ github.ref_name }}.zip
           asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
