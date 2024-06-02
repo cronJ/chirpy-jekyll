@@ -16,7 +16,7 @@ jobs:
           docker run \
           -v ${{ github.workspace }}:/site \
           -it --entrypoint bash \
-          ghcr.io/bretfisher/jekyll && bundle install && bundle exec jekyll build
+          ghcr.io/bretfisher/jekyll -c "bundle install && bundle exec jekyll build"
 
       - name: Zip the site
         run: zip -r site.zip _site
