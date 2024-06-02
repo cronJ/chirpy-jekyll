@@ -14,8 +14,8 @@ jobs:
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
-          -v ${{ github.workspace }}:/site \
-          -it --entrypoint bash \
+          --rm -v ${{ github.workspace }}:/site \
+          --entrypoint bash \
           ghcr.io/bretfisher/jekyll -c "bundle install && bundle exec jekyll build"
 
       - name: Zip the site
